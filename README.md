@@ -1,1 +1,1 @@
-# USPS-digit-classification
+# digit-classification
